@@ -30,7 +30,7 @@ This design allows the model to perform **high-precision segmentation even with 
 ## 🛠️ Technologies Used
 
 - **Programming Language:** Python  
-- **Deep Learning Framework:** PyTorch / TensorFlow  
+- **Deep Learning Framework:**  TensorFlow  
 - **Model Architecture:** U-Net  
 - **Image Processing:** OpenCV  
 - **Visualization:** Matplotlib  
